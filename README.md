@@ -8,3 +8,5 @@ This project uses Jupyter Notebook, which I've found to be pretty useful for mac
 applications.
 
 It's still a bit sloppy, and requires comments explaining certain sections of the code.
+
+I'm still learning, so the code isn't perfect.
